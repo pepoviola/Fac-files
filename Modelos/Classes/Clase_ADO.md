@@ -90,11 +90,12 @@ FECHAS
 
 + TP
 
-	autenticacion
+	* autenticacion
 
-	autorizacion
+	* autorizacion
+
 ---
-	digito verificador
+	* digito verificador
 
 		backup
 
@@ -107,11 +108,11 @@ FECHAS
 		restore
 
 ---
-	compra trivial
+	* compra trivial
 	
 		producto y precio final tiene que dar bien
 
-	webservice orientado al cliente, una función que este asociada al negocio
+	* webservice orientado al cliente, una función que este asociada al negocio
 	
 
 

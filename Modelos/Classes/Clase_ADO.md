@@ -57,18 +57,18 @@ actualizar la asignatura del profesor
 ---
 ej:
 
-conex = .............
-strDelete = "delete profesor where apellido = @apellido"
-cmdDelete = new sqlcommand(strDelete,conex)
-cmdDelete.Parameters.Add("@apellido",txtApellido.text)
-conex.open()
-intDeleteCount = cmdDelete.ExecuteNonQuery()
+	conex = .............
+	strDelete = "delete profesor where apellido = @apellido"
+	cmdDelete = new sqlcommand(strDelete,conex)
+	cmdDelete.Parameters.Add("@apellido",txtApellido.text)
+	conex.open()
+	intDeleteCount = cmdDelete.ExecuteNonQuery()
 
 ---------------------------
 
-strInsert = "insert into Profesor (Apellido) values (@apellido)"
-cmdInsert = new SqlCommand(strInsert,conex)
-cmdInsert.Parameters.add("@apellido",txtApellido.text)
+	strInsert = "insert into Profesor (Apellido) values (@apellido)"
+	cmdInsert = new SqlCommand(strInsert,conex)
+	cmdInsert.Parameters.add("@apellido",txtApellido.text)
 
 
 
@@ -76,20 +76,37 @@ cmdInsert.Parameters.add("@apellido",txtApellido.text)
 
 FECHAS
 
-24/10
-31/10
+	24/10
+	31/10
 
-7/11 Segndo parcial
-14/11 Recuperatorio del 1ro
-21/11 Recuperatorio del 2do
-28/11 entrega del tp (ws y xml)
+	7/11 Segndo parcial
+	14/11 Recuperatorio del 1ro
+	21/11 Recuperatorio del 2do
+	28/11 entrega del tp (ws y xml)
 
 
 ----
 
 
++ TP
+	autenticacion
+	autorizacion
+
+	digito verificador
+		backup
+		desloguearse
+		modificar 1 o 2 tablas
+		(me logueo como webmaster tiene que informar registro corruptos)
+		restore
+
+	compra trivial
+	
+		producto y precio final tiene que dar bien
+
+	webservice orientado al cliente, una función que este asociada al negocio
+	
 
 
 
-28/11 ultima clase
+
 

@@ -89,16 +89,24 @@ FECHAS
 
 
 + TP
-	autenticacion
-	autorizacion
 
+	autenticacion
+
+	autorizacion
+---
 	digito verificador
+
 		backup
+
 		desloguearse
+
 		modificar 1 o 2 tablas
+
 		(me logueo como webmaster tiene que informar registro corruptos)
+
 		restore
 
+---
 	compra trivial
 	
 		producto y precio final tiene que dar bien

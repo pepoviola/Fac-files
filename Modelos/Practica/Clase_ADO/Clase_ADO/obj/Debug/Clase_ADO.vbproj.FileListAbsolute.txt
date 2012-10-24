@@ -1,0 +1,11 @@
+C:\inetpub\wwwroot\Modelos\Clase_ADO\Clase_ADO\bin\Clase_ADO.dll
+C:\inetpub\wwwroot\Modelos\Clase_ADO\Clase_ADO\bin\Clase_ADO.pdb
+C:\inetpub\wwwroot\Modelos\Clase_ADO\Clase_ADO\bin\Clase_ADO.xml
+C:\inetpub\wwwroot\Modelos\Clase_ADO\Clase_ADO\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\Modelos\Clase_ADO\Clase_ADO\obj\Debug\Clase_ADO.Resources.resources
+C:\inetpub\wwwroot\Modelos\Clase_ADO\Clase_ADO\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\inetpub\wwwroot\Modelos\Clase_ADO\Clase_ADO\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\inetpub\wwwroot\Modelos\Clase_ADO\Clase_ADO\obj\Debug\Clase_ADO.dll
+C:\inetpub\wwwroot\Modelos\Clase_ADO\Clase_ADO\obj\Debug\Clase_ADO.xml
+C:\inetpub\wwwroot\Modelos\Clase_ADO\Clase_ADO\obj\Debug\Clase_ADO.pdb
+C:\inetpub\wwwroot\Modelos\Clase_ADO\Clase_ADO\obj\Debug\GenerateResource.read.1.tlog

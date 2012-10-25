@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="MayoryNoOS40">
+        <s:complexType />
+      </s:element>
+      <s:element name="MayoryNoOS40Response">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="MayoryNoOS40Result" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="Menor40yOS">
+        <s:complexType />
+      </s:element>
+      <s:element name="Menor40yOSResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="Menor40yOSResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="MayoryNoOS40SoapIn">
+    <wsdl:part name="parameters" element="tns:MayoryNoOS40" />
+  </wsdl:message>
+  <wsdl:message name="MayoryNoOS40SoapOut">
+    <wsdl:part name="parameters" element="tns:MayoryNoOS40Response" />
+  </wsdl:message>
+  <wsdl:message name="Menor40yOSSoapIn">
+    <wsdl:part name="parameters" element="tns:Menor40yOS" />
+  </wsdl:message>
+  <wsdl:message name="Menor40yOSSoapOut">
+    <wsdl:part name="parameters" element="tns:Menor40yOSResponse" />
+  </wsdl:message>
+  <wsdl:portType name="Service1Soap">
+    <wsdl:operation name="MayoryNoOS40">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Mayor a 40 y no OS</wsdl:documentation>
+      <wsdl:input message="tns:MayoryNoOS40SoapIn" />
+      <wsdl:output message="tns:MayoryNoOS40SoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="Menor40yOS">
+      <wsdl:documentation xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">Menor a 40 y OS</wsdl:documentation>
+      <wsdl:input message="tns:Menor40yOSSoapIn" />
+      <wsdl:output message="tns:Menor40yOSSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="Service1Soap" type="tns:Service1Soap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="MayoryNoOS40">
+      <soap:operation soapAction="http://tempuri.org/MayoryNoOS40" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Menor40yOS">
+      <soap:operation soapAction="http://tempuri.org/Menor40yOS" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="Service1Soap12" type="tns:Service1Soap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="MayoryNoOS40">
+      <soap12:operation soapAction="http://tempuri.org/MayoryNoOS40" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="Menor40yOS">
+      <soap12:operation soapAction="http://tempuri.org/Menor40yOS" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service1">
+    <wsdl:port name="Service1Soap" binding="tns:Service1Soap">
+      <soap:address location="http://localhost:49280/Service1.asmx" />
+    </wsdl:port>
+    <wsdl:port name="Service1Soap12" binding="tns:Service1Soap12">
+      <soap12:address location="http://localhost:49280/Service1.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

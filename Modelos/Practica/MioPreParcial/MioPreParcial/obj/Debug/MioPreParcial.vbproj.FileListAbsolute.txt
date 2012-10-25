@@ -1,0 +1,10 @@
+C:\inetpub\wwwroot\Modelos\MioPreParcial\MioPreParcial\bin\MioPreParcial.dll
+C:\inetpub\wwwroot\Modelos\MioPreParcial\MioPreParcial\bin\MioPreParcial.pdb
+C:\inetpub\wwwroot\Modelos\MioPreParcial\MioPreParcial\bin\MioPreParcial.xml
+C:\inetpub\wwwroot\Modelos\MioPreParcial\MioPreParcial\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\Modelos\MioPreParcial\MioPreParcial\obj\Debug\MioPreParcial.Resources.resources
+C:\inetpub\wwwroot\Modelos\MioPreParcial\MioPreParcial\obj\Debug\GenerateResource.read.1.tlog
+C:\inetpub\wwwroot\Modelos\MioPreParcial\MioPreParcial\obj\Debug\GenerateResource.write.1.tlog
+C:\inetpub\wwwroot\Modelos\MioPreParcial\MioPreParcial\obj\Debug\MioPreParcial.dll
+C:\inetpub\wwwroot\Modelos\MioPreParcial\MioPreParcial\obj\Debug\MioPreParcial.xml
+C:\inetpub\wwwroot\Modelos\MioPreParcial\MioPreParcial\obj\Debug\MioPreParcial.pdb

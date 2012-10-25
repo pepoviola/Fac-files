@@ -1,0 +1,10 @@
+C:\inetpub\wwwroot\Modelos\MioPreParcial\WebService1\bin\WebService1.dll
+C:\inetpub\wwwroot\Modelos\MioPreParcial\WebService1\bin\WebService1.pdb
+C:\inetpub\wwwroot\Modelos\MioPreParcial\WebService1\bin\WebService1.xml
+C:\inetpub\wwwroot\Modelos\MioPreParcial\WebService1\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\Modelos\MioPreParcial\WebService1\obj\Debug\WebService1.Resources.resources
+C:\inetpub\wwwroot\Modelos\MioPreParcial\WebService1\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\inetpub\wwwroot\Modelos\MioPreParcial\WebService1\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\inetpub\wwwroot\Modelos\MioPreParcial\WebService1\obj\Debug\WebService1.dll
+C:\inetpub\wwwroot\Modelos\MioPreParcial\WebService1\obj\Debug\WebService1.xml
+C:\inetpub\wwwroot\Modelos\MioPreParcial\WebService1\obj\Debug\WebService1.pdb

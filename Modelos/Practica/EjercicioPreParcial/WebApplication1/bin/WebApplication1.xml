@@ -1,0 +1,190 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WebApplication1
+</name>
+</assembly>
+<members>
+<member name="M:WebApplication1.localhost.Service1.#ctor">
+	<remarks/>
+</member><member name="E:WebApplication1.localhost.Service1.MayoryNoOS40Completed">
+	<remarks/>
+</member><member name="E:WebApplication1.localhost.Service1.Menor40yOSCompleted">
+	<remarks/>
+</member><member name="M:WebApplication1.localhost.Service1.MayoryNoOS40">
+	<remarks/>
+</member><member name="M:WebApplication1.localhost.Service1.MayoryNoOS40Async">
+	<remarks/>
+</member><member name="M:WebApplication1.localhost.Service1.MayoryNoOS40Async(System.Object)">
+	<remarks/>
+</member><member name="M:WebApplication1.localhost.Service1.Menor40yOS">
+	<remarks/>
+</member><member name="M:WebApplication1.localhost.Service1.Menor40yOSAsync">
+	<remarks/>
+</member><member name="M:WebApplication1.localhost.Service1.Menor40yOSAsync(System.Object)">
+	<remarks/>
+</member><member name="M:WebApplication1.localhost.Service1.CancelAsync(System.Object)">
+	<remarks/>
+</member><member name="T:WebApplication1.localhost.Service1">
+	<remarks/>
+</member><member name="T:WebApplication1.localhost.MayoryNoOS40CompletedEventHandler">
+	<remarks/>
+</member><member name="P:WebApplication1.localhost.MayoryNoOS40CompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:WebApplication1.localhost.MayoryNoOS40CompletedEventArgs">
+	<remarks/>
+</member><member name="T:WebApplication1.localhost.Menor40yOSCompletedEventHandler">
+	<remarks/>
+</member><member name="P:WebApplication1.localhost.Menor40yOSCompletedEventArgs.Result">
+	<remarks/>
+</member><member name="T:WebApplication1.localhost.Menor40yOSCompletedEventArgs">
+	<remarks/>
+</member><member name="F:WebApplication1.vuelta.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:WebApplication1.vuelta.apellido">
+	<summary>
+apellido control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:WebApplication1.vuelta.edad">
+	<summary>
+edad control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:WebApplication1.vuelta.fuma">
+	<summary>
+fuma control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:WebApplication1.vuelta.os">
+	<summary>
+os control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:WebApplication1.vuelta.retorno">
+	<summary>
+retorno control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:WebApplication1.WebForm1.form1">
+	<summary>
+form1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:WebApplication1.WebForm1.lbFuma">
+	<summary>
+lbFuma control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:WebApplication1.WebForm1.apellido">
+	<summary>
+apellido control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:WebApplication1.WebForm1.rfv">
+	<summary>
+rfv control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:WebApplication1.WebForm1.RadioButtonList1">
+	<summary>
+RadioButtonList1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:WebApplication1.WebForm1.edades">
+	<summary>
+edades control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:WebApplication1.WebForm1.os">
+	<summary>
+os control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:WebApplication1.WebForm1.boton">
+	<summary>
+boton control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:WebApplication1.My.MyWebExtension.Application">
+	<summary>
+ Returns information about the current application.
+ </summary>
+</member><member name="P:WebApplication1.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:WebApplication1.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:WebApplication1.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:WebApplication1.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:WebApplication1.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="P:WebApplication1.My.MyWebExtension.WebServices">
+	<summary>
+ Provides access to WebServices added to this project.
+ </summary>
+</member><member name="T:WebApplication1.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member>
+</members>
+</doc>

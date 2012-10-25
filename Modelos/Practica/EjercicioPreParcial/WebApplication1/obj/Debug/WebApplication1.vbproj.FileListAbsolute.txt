@@ -1,0 +1,17 @@
+C:\inetpub\wwwroot\Modelos\EjercicioPreParcial\WebApplication1\bin\WebApplication1.dll
+C:\inetpub\wwwroot\Modelos\EjercicioPreParcial\WebApplication1\bin\WebApplication1.pdb
+C:\inetpub\wwwroot\Modelos\EjercicioPreParcial\WebApplication1\bin\WebApplication1.xml
+C:\inetpub\wwwroot\Modelos\EjercicioPreParcial\WebApplication1\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\Modelos\EjercicioPreParcial\WebApplication1\obj\Debug\WebApplication1.Resources.resources
+C:\inetpub\wwwroot\Modelos\EjercicioPreParcial\WebApplication1\obj\Debug\GenerateResource.read.1.tlog
+C:\inetpub\wwwroot\Modelos\EjercicioPreParcial\WebApplication1\obj\Debug\GenerateResource.write.1.tlog
+C:\inetpub\wwwroot\Modelos\EjercicioPreParcial\WebApplication1\obj\Debug\WebApplication1.dll
+C:\inetpub\wwwroot\Modelos\EjercicioPreParcial\WebApplication1\obj\Debug\WebApplication1.xml
+C:\inetpub\wwwroot\Modelos\EjercicioPreParcial\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\inetpub\wwwroot\Modelos\EjercicioPreParcial\WebApplication1\obj\Debug\GenerateResource.read.231.tlog
+C:\inetpub\wwwroot\Modelos\EjercicioPreParcial\WebApplication1\obj\Debug\GenerateResource.write.231.tlog
+C:\inetpub\wwwroot\Modelos\EjercicioPreParcial\WebApplication1\obj\Debug\GenerateResource.write.333.tlog
+C:\inetpub\wwwroot\Modelos\EjercicioPreParcial\WebApplication1\obj\Debug\GenerateResource.read.334.tlog
+C:\inetpub\wwwroot\Modelos\EjercicioPreParcial\WebApplication1\obj\Debug\GenerateResource.read.358.tlog
+C:\inetpub\wwwroot\Modelos\EjercicioPreParcial\WebApplication1\obj\Debug\GenerateResource.write.345.tlog
+C:\inetpub\wwwroot\Modelos\EjercicioPreParcial\WebApplication1\obj\Debug\GenerateResource.write.357.tlog

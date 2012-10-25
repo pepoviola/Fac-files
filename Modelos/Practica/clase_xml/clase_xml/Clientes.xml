@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!--escribir datos en xml-->
+<DatosClientes NombreTipo="Guardar">
+  <NombreNumero>pepo</NombreNumero>
+  <Apellidos>viola</Apellidos>
+  <Direccion>hoy en la uai</Direccion>
+</DatosClientes>

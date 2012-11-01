@@ -121,3 +121,5 @@ xml.net apunte y ejercicios (excepto el e)
 dispositivos mobiles apunte y ejercicio
 
 
+
+* CORBA Y AGENTES DE SW VA EN EL FINAL, NO EN EL 2DO PARCIAL

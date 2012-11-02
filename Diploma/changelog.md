@@ -7,3 +7,17 @@
 [31/10/2012]
 
 	* Se actualizÃ³ especificaciÃ³n de Locaciones (faltan Diagramas de secuencia)	
+
+[2/11/2012]
+	
+	* Se actualiza la especificación de Eventos
+	* Se agregó confirmación de baja de Evento
+	* Se agregó formulario que muestra mails de clientes en cancelación de evento.
+	* TODO: Eventos deberia tener DVH
+
+	* Se actualiza especificación de Clientes (Se saca DV)
+	* Se agregó confirmación de baja de Cliente
+
+	* Se actualiza especificación de Productores (DV lo saco ?)
+	* Se actualiza la bitacora de Cliente y Productor, al crear o modificar guardaba en la bitacora  encriptado.
+	* TODO: Ver especificacion de gestión de cuenta corriente

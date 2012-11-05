@@ -1,0 +1,10 @@
+C:\inetpub\wwwroot\Modelos\Clase4_solution\Clase4_solution\bin\Clase4_solution.dll
+C:\inetpub\wwwroot\Modelos\Clase4_solution\Clase4_solution\bin\Clase4_solution.pdb
+C:\inetpub\wwwroot\Modelos\Clase4_solution\Clase4_solution\bin\Clase4_solution.xml
+C:\inetpub\wwwroot\Modelos\Clase4_solution\Clase4_solution\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\Modelos\Clase4_solution\Clase4_solution\obj\Debug\Clase4_solution.Resources.resources
+C:\inetpub\wwwroot\Modelos\Clase4_solution\Clase4_solution\obj\Debug\GenerateResource.read.1.tlog
+C:\inetpub\wwwroot\Modelos\Clase4_solution\Clase4_solution\obj\Debug\GenerateResource.write.1.tlog
+C:\inetpub\wwwroot\Modelos\Clase4_solution\Clase4_solution\obj\Debug\Clase4_solution.dll
+C:\inetpub\wwwroot\Modelos\Clase4_solution\Clase4_solution\obj\Debug\Clase4_solution.xml
+C:\inetpub\wwwroot\Modelos\Clase4_solution\Clase4_solution\obj\Debug\Clase4_solution.pdb

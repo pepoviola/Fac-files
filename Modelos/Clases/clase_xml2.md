@@ -13,22 +13,24 @@ Mientras que XMLTextReader provee unicamente acceso al cursor XMLDocument provee
 
 
 ---
+
 ejercicios probables para el examen
 
-a => textReader
-,b => textWriter
-,d => filtro con xpath
-,i => filtro con xslt
-,e => (no va en la maquina, si va en la teoria)
+	a => textReader
+	,b => textWriter
+	,d => filtro con xpath
+	,i => filtro con xslt
+	,e => (no va en la maquina, si va en la teoria)
 
-mostrar los datos en forma de arbol y en forma de tabla
+	mostrar los datos en forma de arbol y en forma de tabla
 
 
-teoria -> grafique el modelo de objetos
+	teoria -> grafique el modelo de objetos
 				  cual seria el almacen de datos en el modelo de objetos
 					
 
 ----
+
 Diapositivas Agentes de software:
 
 son programas que se ejecutan en un procesador o en una red, y es un sistema informatico situado en un entorno que ademas es capaz de realizar acciones de forma autónoma
@@ -97,28 +99,31 @@ U(utilidad) - permite clasificar a los agentes de acuerdo con su finalidad. se u
 	
 Agente de software (apunte) -hojas que no van (los prima son los reversos)
 
-1 va
-1' va
+	1 va
+	1' va
 
-2' va
-3 va
-3' va
-4 va
+	2' va
+	3 va
+	3' va
+	4 va
 
-6 va
-6' va
-7 va
-7' va
-11' va
-(todo el resto va)
+	6 va
+	6' va
+	7 va
+	7' va
+	11' va
+	(todo el resto va)
 
-[va para el final] 
+	[va para el final] 
 
+
+---
 
 parcial 2
-ADO.net apunte y ejercicios (no en maquina, se desprenden preguntas teoricas de los ejercicios)
-xml.net apunte y ejercicios (excepto el e)
-dispositivos mobiles apunte y ejercicio
+	
+	ADO.net apunte y ejercicios (no en maquina, se desprenden preguntas teoricas de los ejercicios)
+	xml.net apunte y ejercicios (excepto el e)
+	dispositivos mobiles apunte y ejercicio
 
 
 

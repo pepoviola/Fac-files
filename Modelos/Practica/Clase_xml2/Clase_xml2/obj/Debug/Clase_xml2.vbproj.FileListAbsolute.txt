@@ -1,0 +1,10 @@
+C:\inetpub\wwwroot\Modelos\Clase_xml2\Clase_xml2\bin\Clase_xml2.dll
+C:\inetpub\wwwroot\Modelos\Clase_xml2\Clase_xml2\bin\Clase_xml2.pdb
+C:\inetpub\wwwroot\Modelos\Clase_xml2\Clase_xml2\bin\Clase_xml2.xml
+C:\inetpub\wwwroot\Modelos\Clase_xml2\Clase_xml2\obj\Debug\ResolveAssemblyReference.cache
+C:\inetpub\wwwroot\Modelos\Clase_xml2\Clase_xml2\obj\Debug\Clase_xml2.Resources.resources
+C:\inetpub\wwwroot\Modelos\Clase_xml2\Clase_xml2\obj\Debug\GenerateResource.read.1.tlog
+C:\inetpub\wwwroot\Modelos\Clase_xml2\Clase_xml2\obj\Debug\GenerateResource.write.1.tlog
+C:\inetpub\wwwroot\Modelos\Clase_xml2\Clase_xml2\obj\Debug\Clase_xml2.dll
+C:\inetpub\wwwroot\Modelos\Clase_xml2\Clase_xml2\obj\Debug\Clase_xml2.xml
+C:\inetpub\wwwroot\Modelos\Clase_xml2\Clase_xml2\obj\Debug\Clase_xml2.pdb

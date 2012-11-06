@@ -20,4 +20,7 @@
 
 	* Se actualiza especificación de Productores (DV lo saco ?)
 	* Se actualiza la bitacora de Cliente y Productor, al crear o modificar guardaba en la bitacora  encriptado.
+
 	* TODO: Ver especificacion de gestión de cuenta corriente
+
+	* TODO: (DONE) Si hay una sola promoción con el medio de pago (tar/emisor) se selecciona automaticamente. Si es más de una disponible, el usuario la selecciona (PERO SIEMPRE DEBE SELECCIONAR UNA). ESTO DEBE QUEDAR REGISTRADO EN LA BITACORA
